@@ -1,0 +1,20 @@
+[project]
+name = "mmm-workshop"
+version = "0.1.0"
+description = "Is your marketing effective? Let Bayes decide! Code and resources for the Marketing Media Mix model workshop."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arviz>=0.20.0",
+    "graphviz>=0.20.3",
+    "ipywidgets>=8.1.5",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.3.4",
+    "matplotlib>=3.10.0",
+    "numpy>=1.26.4",
+    "pandas>=2.2.3",
+    "pymc>=5.19.1",
+]
+
+[tool.ruff]
+line-length = 120
