@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/kynan/nbstripout
+    rev: 0.8.1
+    hooks:
+      - id: nbstripout
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.5
+    hooks:
+      - id: ruff-format
+        types_or: [ python, jupyter ]
+      - id: ruff
+        types_or: [ python, jupyter ]
+        args: [ --fix ]
+  
