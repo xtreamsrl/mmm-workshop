@@ -6,10 +6,11 @@ The easiest way to dive in is by exploring the notebooks on Google Colab. Let’
 
 ## 🚀 Ready, Set, Go!
 
-**#** | **Topic** | **Open in**
-:-----:|:----------|:----------:
-1 | [Introduction to PyMC](./notebooks/Intro%20to%20PyMC.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xtreamsrl/mmm-workshop/blob/main/notebooks/Intro%20to%20PyMC.ipynb)
-
+**#** | **Topic**                                                        | **Open in**
+:-----:|:-----------------------------------------------------------------|:----------:
+1 | [Introduction to PyMC](./notebooks/Intro%20to%20PyMC.ipynb)      | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xtreamsrl/mmm-workshop/blob/main/notebooks/Intro%20to%20PyMC.ipynb)
+2 | [Explanatory Analysis](./notebooks/Explanatory%20Analysis.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xtreamsrl/mmm-workshop/blob/main/notebooks/Marketing%20Media%20Models.ipynb)
+3 | [Bayesian Model](./notebooks/Bayesian%20Model.ipynb)             | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xtreamsrl/mmm-workshop/blob/main/notebooks/Marketing%20Media%20Models.ipynb)
 ## Slides
 Looking for the slides? You can check them out on [Canva](https://www.canva.com/design/DAGbIbaH3sE/Q1YTkp4uV_UEZ4dk_gHkdA/edit?utm_content=DAGbIbaH3sE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). They’re packed with visuals and insights to guide you along the way!
 
